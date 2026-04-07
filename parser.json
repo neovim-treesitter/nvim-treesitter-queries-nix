@@ -1,7 +1,6 @@
 {
+  "url": "https://github.com/nix-community/tree-sitter-nix",
   "semver": false,
   "parser_version": "eabf96807ea4ab6d6c7f09b671a88cd483542840",
-  "location": null,
-  "lang": "nix",
-  "url": "https://github.com/nix-community/tree-sitter-nix"
+  "lang": "nix"
 }
