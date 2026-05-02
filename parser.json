@@ -1,5 +1,5 @@
 {
-  "parser_version": "eabf96807ea4ab6d6c7f09b671a88cd483542840",
+  "parser_version": "35b2a51e93625e50e0bbff58b4aad45706cdc299",
   "lang": "nix",
   "url": "https://github.com/nix-community/tree-sitter-nix",
   "semver": false
